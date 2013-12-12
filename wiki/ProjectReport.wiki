@@ -1,8 +1,4 @@
-#summary One-sentence summary of this page.
-
-= Introduction =
-
-Add your content here.
+#summary This page includes our Written Project Report for A Game of Blocks.
 
 
 = Details =
