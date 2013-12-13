@@ -11,4 +11,4 @@ Add your content here.  Format your content with:
   * <wiki:video url="http://www.youtube.com/watch?v=w55PczfTm6Q&list=PLDy3vXUPd-vwjAPjsMH1NMt5YPJ3RfKWG&index=1"/>
   * <wiki:video url="http://www.youtube.com/watch?v=3w17vTuk72g&list=PLDy3vXUPd-vwjAPjsMH1NMt5YPJ3RfKWG&index=2"/>
   * <wiki:video url="http://www.youtube.com/watch?v=jaSlQq3vZBE&list=PLDy3vXUPd-vwjAPjsMH1NMt5YPJ3RfKWG"/>
-  *<wiki:video url="http://www.youtube.com/watch?v=TSrDcjy2-zE&list=PLDy3vXUPd-vwjAPjsMH1NMt5YPJ3RfKWG"/>
+  * <wiki:video url="http://www.youtube.com/watch?v=TSrDcjy2-zE&list=PLDy3vXUPd-vwjAPjsMH1NMt5YPJ3RfKWG"/>
